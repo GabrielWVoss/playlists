@@ -1,0 +1,436 @@
+<link rel="preconnect" href="https://fonts.gstatic.com" />
+<link
+  href="https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@400;700&display=swap"
+  rel="stylesheet"
+/>
+
+<style>
+  #playlist {
+    --filter: invert(96%) sepia(0%) saturate(3395%) hue-rotate(257deg)
+      brightness(123%) contrast(88%);
+  }
+
+  .wrapPlay {
+    width: 280px;
+    height: 480px;
+    border-radius: 20px;
+    background: linear-gradient(160deg, #3e2a3d 50%, #1f1f1f 50%);
+    margin: auto;
+    position: relative;
+    -webkit-box-shadow: 0px 0px 10px -4px rgba(0, 0, 0, 0.55);
+    -moz-box-shadow: 0px 0px 10px -4px rgba(0, 0, 0, 0.55);
+    box-shadow: 0px 0px 10px -4px rgba(0, 0, 0, 0.55);
+    overflow: hidden;
+    font-family: "Roboto Condensed", sans-serif;
+    line-height: 150%;
+    color: #f0f0f0;
+  }
+
+  .wrapTop {
+    width: 100%;
+    height: 300px;
+    border-radius: 0px 0px 140px 140px;
+    background-image: url();
+    background-size: cover;
+    background-position: center;
+    background-blend-mode: multiply;
+    background-color: #a56fa3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    position: relative;
+    -webkit-box-shadow: 0px 0px 10px -4px rgba(0, 0, 0, 0.75);
+    -moz-box-shadow: 0px 0px 10px -4px rgba(0, 0, 0, 0.75);
+    box-shadow: 0px 0px 10px -4px rgba(0, 0, 0, 0.75);
+  }
+
+  .wrapTop h1 {
+    width: 70%;
+    font-size: 16px;
+    text-align: center;
+    line-height: 130%;
+    margin: 5px;
+  }
+
+  .wrapTop h4 {
+    position: absolute;
+    bottom: -15px;
+    left: 15px;
+    font-size: 14px;
+  }
+
+  .wrapTop h5 {
+    position: absolute;
+    bottom: -15px;
+    right: 15px;
+    font-size: 14px;
+  }
+
+  .topControl {
+    width: 100%;
+    height: 30px;
+    position: absolute;
+    top: 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .topControl h2 {
+    margin: 0px 20px;
+    font-size: 8px;
+    font-weight: 400;
+    letter-spacing: 1px;
+  }
+
+  .topControl h3 {
+    margin: 0px 20px;
+    font-size: 10px;
+  }
+
+  .buttonBack {
+    margin: 0px 20px;
+    width: 8px;
+    height: 8px;
+    background-image: url(https://images2.imgbox.com/d2/8d/Qb2VS7Q9_o.png);
+    background-size: cover;
+    background-position: center;
+  }
+
+  .bottomPlay {
+    width: 100%;
+    height: 160px;
+    padding-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-direction: column;
+  }
+
+  .bottomPlay h1 {
+    font-size: 22px;
+    margin-top: 3px;
+  }
+
+  .bottomPlay h2 {
+    font-size: 12px;
+    margin-bottom: 0px;
+    opacity: 0.9;
+  }
+
+  .controlPlay {
+    width: 100%;
+    height: 100px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+
+  .buttonPreview {
+    width: 17px;
+    height: 17px;
+    background-image: url(https://images2.imgbox.com/b9/ef/Ejbb3lwf_o.png);
+    background-size: cover;
+    background-position: center;
+    filter: var(--filter);
+    cursor: pointer;
+  }
+
+  .buttonNext {
+    width: 17px;
+    height: 17px;
+    background-image: url(https://images2.imgbox.com/99/9d/A4NX1qSG_o.png);
+    background-size: cover;
+    background-position: center;
+    filter: var(--filter);
+    cursor: pointer;
+  }
+
+  .buttonPlay {
+    width: 30px;
+    height: 30px;
+    background-image: url(https://images2.imgbox.com/0e/ff/0aqRMP7a_o.png);
+    background-size: cover;
+    background-position: center;
+    filter: var(--filter);
+    cursor: pointer;
+  }
+
+  .pausePlay {
+    background-image: url(https://images2.imgbox.com/ab/37/jWOAZru1_o.png);
+  }
+
+  .buttonPlay:focus {
+    outline: 0;
+  }
+
+  .bottonOn {
+    background-color: #a56fa3;
+  }
+
+  .fadePlay {
+    opacity: 0.5;
+    cursor: default;
+  }
+
+  .buttonShuffle {
+    width: 20px;
+    height: 20px;
+    border: 1px #a56fa3 solid;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+
+  .buttonShuffle::after {
+    content: "";
+    display: block;
+    width: 10px;
+    height: 10px;
+    background-image: url(https://images2.imgbox.com/c6/38/D1rFx071_o.png);
+    background-size: cover;
+    background-position: center;
+    filter: var(--filter);
+  }
+
+  .buttonShuffle.bottonOn:after,
+  .buttonRepeat.bottonOn:after {
+    filter: invert(0%) sepia(90%) saturate(7500%) hue-rotate(58deg)
+      brightness(89%) contrast(95%);
+  }
+
+  .buttonRepeat {
+    width: 20px;
+    height: 20px;
+    border: 1px #a56fa3 solid;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+  }
+
+  .buttonRepeat::after {
+    content: "";
+    display: block;
+    width: 10px;
+    height: 10px;
+    background-image: url(https://images2.imgbox.com/50/65/MNUzcBVC_o.png);
+    background-size: cover;
+    background-position: center;
+    filter: var(--filter);
+  }
+</style>
+
+<body>
+  <div id="playlist" class="wrapPlay">
+    <div class="wrapPlay" id="timeTrackerOne">
+      <div class="wrapTop" id="coverOne">
+        <div class="topControl">
+          <div class="buttonBack"></div>
+          <h2>Isak's Playlist</h2>
+          <h3>. . .</h3>
+        </div>
+
+        <h1 style="opacity: 0.5; font-size: 13px" id="lineOne"></h1>
+        <h1 id="lineTwo"></h1>
+        <h1 style="opacity: 0.7; font-size: 13px" id="lineThree"></h1>
+
+        <h4 id="currentTimeOne">1:20</h4>
+        <h5 id="durationOne">3:50</h5>
+      </div>
+      <div class="bottomPlay">
+        <div style="text-align: center">
+          <h2 id="artistOne"></h2>
+          <h1 id="titleOne"></h1>
+        </div>
+
+        <div class="controlPlay">
+          <div class="buttonRepeat" id="repeatOne"></div>
+
+          <div class="buttonPreview fadePlay" id="previousOne"></div>
+          <audio id="playerOne">
+            <source src="" type="audio/mp3" />
+            Your browser does not support the audio element.
+          </audio>
+          <div class="buttonPlay" id="playOne"></div>
+          <div class="buttonNext" id="nextOne"></div>
+          <div class="buttonShuffle" id="shuffleOne"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<script type="text/javascript">
+  $(document).ready(function () {
+    $.getJSON("./Isak-Baum/musicsShip.json", function (json) {
+      var playing = false;
+      var playlist;
+
+      var shuffleOne = false;
+      var repeatOne = false;
+
+      let index = 0;
+      playlist = json;
+
+      var currentTime = 0;
+      var progress = 160;
+
+      function setPlaylist() {
+        $(artistOne).text(playlist[index].artist);
+        $(titleOne).text(playlist[index].title);
+
+        $(lineOne).text(playlist[index].lineOne);
+        $(lineTwo).text(playlist[index].lineTwo);
+        $(lineThree).text(playlist[index].lineThree);
+        $(coverOne).css({
+          "background-image": `url(${playlist[index].cover})`,
+        });
+        document
+          .getElementById("playerOne")
+          .setAttribute("src", playlist[index].src);
+
+        currentTime = document.getElementById("playerOne");
+        $(currentTimeOne).text(
+          currentTime.currentTime ? currentTime.currentTime : "00:00"
+        );
+        $(durationOne).text(
+          currentTime.duration ? currentTime.duration : "00:00"
+        );
+
+        progress = 160 - (currentTime.currentTime / currentTime.duration) * 130;
+      }
+
+      setPlaylist();
+
+      time_update_interval();
+
+      function time_update_interval() {
+        time_update = setInterval(function () {
+          progress =
+            160 - (currentTime.currentTime / currentTime.duration) * 130;
+          $("#timeTrackerOne").css({
+            background: `linear-gradient(${progress}deg, #3e2a3d 50%, #1f1f1f 50%)`,
+          });
+          $(currentTimeOne).text(formatTime(currentTime.currentTime));
+          $(durationOne).text(formatTime(currentTime.duration));
+
+          if (currentTime.currentTime === currentTime.duration) {
+            if (repeatOne) {
+              document.getElementById("playerOne").play();
+            } else if (shuffleOne) {
+              shufleOn();
+            } else if (index < playlist.length - 1) {
+              index = index + 1;
+              setPlaylist();
+              document.getElementById("playerOne").play();
+              $("#playOne").addClass("pausePlay");
+            } else $("#playOne").removeClass("pausePlay");
+          }
+        }, 1000);
+      }
+
+      function formatTime(time) {
+        time = Math.round(time);
+
+        var minutes = Math.floor(time / 60),
+          seconds = time - minutes * 60;
+
+        seconds = seconds < 10 ? "0" + seconds : seconds;
+
+        return minutes + ":" + seconds;
+      }
+
+      function shufleOn() {
+        var shufling = Math.floor(Math.random() * (playlist.length - 1 + 1));
+
+        while (shufling === index) {
+          shufling = Math.floor(Math.random() * (playlist.length - 1 + 1));
+        }
+
+        index = shufling;
+        setPlaylist();
+
+        if (index < playlist.length - 1) $("#nextOne").removeClass("fadePlay");
+        if (index > 0) {
+          $("#previousOne").removeClass("fadePlay");
+        }
+
+        if (index === 0) $("#previousOne").addClass("fadePlay");
+        if (index === playlist.length - 1) $("#nextOne").addClass("fadePlay");
+
+        document.getElementById("playerOne").play();
+        console.log(index);
+      }
+
+      $("#playOne").click(function () {
+        if (!playing) {
+          $(this).addClass("pausePlay");
+          document.getElementById("playerOne").play();
+          console.log(currentTime.currentTime);
+          playing = true;
+        } else {
+          $(this).removeClass("pausePlay");
+          document.getElementById("playerOne").pause();
+          playing = false;
+        }
+      });
+
+      $("#previousOne").click(function () {
+        if (shuffleOne) {
+          shufleOn();
+        } else if (index > 0) {
+          index = index - 1;
+          setPlaylist();
+          document.getElementById("playerOne").play();
+          $("#playOne").addClass("pausePlay");
+          if (index > 0) $(this).removeClass("fadePlay");
+          else $(this).addClass("fadePlay");
+          if (index < playlist.length - 1)
+            $("#nextOne").removeClass("fadePlay");
+        }
+      });
+
+      $("#nextOne").click(function () {
+        if (shuffleOne) {
+          shufleOn();
+        } else if (index < playlist.length - 1) {
+          index = index + 1;
+          setPlaylist();
+          document.getElementById("playerOne").play();
+          $("#playOne").addClass("pausePlay");
+          if (index < playlist.length - 1) $(this).removeClass("fadePlay");
+          else $(this).addClass("fadePlay");
+          if (index > 0) $("#previousOne").removeClass("fadePlay");
+        }
+      });
+
+      $("#shuffleOne").click(function () {
+        if (!shuffleOne) {
+          $(this).addClass("bottonOn");
+          shuffleOne = true;
+        } else {
+          $(this).removeClass("bottonOn");
+          shuffleOne = false;
+        }
+      });
+
+      $("#repeatOne").click(function () {
+        if (!repeatOne) {
+          $(this).addClass("bottonOn");
+          repeatOne = true;
+        } else {
+          $(this).removeClass("bottonOn");
+          repeatOne = false;
+        }
+      });
+    });
+  });
+</script>
