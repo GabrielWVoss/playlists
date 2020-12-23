@@ -1,0 +1,49 @@
+{
+  "lyrics": [
+    { "line": "In a perfect world, one we've never known", "time": "0:11" },
+    { "line": "We would never need to face the world alone", "time": "0:19" },
+    { "line": "They can have the world, we'll create our own", "time": "0:28" },
+    { "line": "I may not be brave, or strong, or smart", "time": "0:36" },
+    { "line": "But somewhere in my secret heart", "time": "0:41" },
+
+    {
+      "line": "I know love will find a way, anywhere I go, I'm home",
+      "time": "0:45"
+    },
+    {
+      "line": "If you are there beside me, like dark turning into day",
+      "time": "0:56"
+    },
+    {
+      "line": "Somehow will come through, now that I found you, love will find a way",
+      "time": "1:05"
+    },
+
+    {
+      "line": "I was so afraid, now I realize, love is never wrong",
+      "time": "1:21"
+    },
+    {
+      "line": "And so it never dies, there's a perfect world, shining in your eyes",
+      "time": "1:32"
+    },
+    {
+      "line": "And if only they could feel it too, the happiness I feel with you",
+      "time": "1:45"
+    },
+
+    {
+      "line": "They know, love will find a way, anywhere we go, we're home",
+      "time": "1:53"
+    },
+    {
+      "line": "If we are there together, like dark turning into day",
+      "time": "2:04"
+    },
+    {
+      "line": "Somehow will come true, now that I've found you, love will find a way",
+      "time": "2:14"
+    },
+    { "line": "I know love will find a way", "time": "2:26" }
+  ]
+}

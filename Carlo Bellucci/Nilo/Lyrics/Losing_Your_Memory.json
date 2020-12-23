@@ -1,0 +1,49 @@
+{
+  "lyrics": [
+    { "line": "Call all your friends", "time": "0:26" },
+    { "line": "And tell them I'm never coming back", "time": "0:28" },
+    { "line": "'Cause this is the end", "time": "0:36" },
+    { "line": "Pretend that you want it, don't react", "time": "0:38" },
+    { "line": "The damage is done", "time": "0:46" },
+    { "line": "The police are coming too slow now", "time": "0:48" },
+    { "line": "I would have died", "time": "0:56" },
+    { "line": "I would have loved you all my life", "time": "0:59" },
+
+    { "line": "You're losing your memory now", "time": "1:06" },
+    { "line": "You're losing your memory now", "time": "1:12" },
+    { "line": "You're losing your memory now", "time": "1:16" },
+    { "line": "You're losing your memory... now", "time": "1:22" },
+
+    { "line": "Where have you gone?", "time": "1:52" },
+    { "line": "The beach is so cold in winter here", "time": "1:55" },
+    { "line": "And where have I gone?", "time": "2:02" },
+    { "line": "I wake in Montauk with you near", "time": "2:04" },
+    { "line": "Remember the day", "time": "2:12" },
+    { "line": "'Cause this is what dreams should always be", "time": "2:15" },
+    { "line": "I just want to stay", "time": "2:23" },
+    { "line": "I just want to keep this dream in me", "time": "2:25" },
+
+    { "line": "You're losing your memory now", "time": "2:33" },
+    { "line": "You're losing your memory now", "time": "2:38" },
+    { "line": "You're losing your memory now", "time": "2:43" },
+    { "line": "You're losing your memory...", "time": "2:49" },
+
+    { "line": "Wake up, it's time; little girl, wake up", "time": "2:56" },
+    {
+      "line": "All the best of what we've done is yet to come",
+      "time": "3:06"
+    },
+    { "line": "Wake up, it's time; little girl, wake up", "time": "3:16" },
+    { "line": "Just remember who I am in the morning...", "time": "3:27" },
+
+    { "line": "You're losing your memory now", "time": "3:38" },
+    { "line": "You're losing your memory now", "time": "3:44" },
+    { "line": "You're losing your memory now", "time": "3:49" },
+    { "line": "You're losing your memory...", "time": "3:55" },
+
+    { "line": "You're losing your memory now", "time": "4:00" },
+    { "line": "You're losing your memory now", "time": "4:05" },
+    { "line": "You're losing your memory now", "time": "4:10" },
+    { "line": "You're losing your memory...", "time": "4:15" }
+  ]
+}
