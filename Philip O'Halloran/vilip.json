@@ -3,90 +3,70 @@
     "title": "Friends",
     "artist": "Ed Sheeran",
     "cover": "https://64.media.tumblr.com/ce3cfb8aff50971038a4a72adf9e0612/b40a33a0813157b1-8a/s400x600/0c2334f9a792890338a1f5c05536beb906c85bd3.gifv",
-    "lineOne": "You should love me, you should know",
-    "lineTwo": "Friends just sleep in another bed",
-    "lineThree": "And friends don't treat me like you do",
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/Lyrics/Friends.json",
     "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/Ed%20Sheeran%20-%20Friends.mp3"
   },
   {
     "title": "Let's Fall in Love for the Night",
     "artist": "FINNEAS",
     "cover": "https://64.media.tumblr.com/bb9a08fbb8c64f7beee9deeeedbc40a8/tumblr_ptqupwhVMj1x5guplo6_1280.gifv",
-    "lineOne": "Let's fall in love for the night",
-    "lineTwo": "And forget in the mornin'",
-    "lineThree": "Play me a song that you like",
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/Lyrics/Lets_Fall_in_Love_for_the_Night.json",
     "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/FINNEAS%20-%20Let's%20Fall%20in%20Love%20for%20the%20Night.mp3"
   },
   {
     "title": "Addicted",
     "artist": "Saving Abel",
     "cover": "https://64.media.tumblr.com/6b19576fb81b7b6f6c4e1f1ed348d553/1a27add9fa698907-ba/s500x750/15a23f2387eecc6bf3b92bfd14f068b2fed5b112.gifv",
-    "lineOne": "It's not like you to turn away",
-    "lineTwo": "From all the bullshit I can't take",
-    "lineThree": "It's not like me to walk away",
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/Lyrics/Addicted.json",
     "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/Saving%20Abel%20-%20Addicted.mp3"
   },
     {
     "title": "Don't Tell",
     "artist": "Royal Blood",
     "cover": "https://64.media.tumblr.com/f9e17a3d429fed462d97adb85c951a6c/tumblr_p5u4lpHmAu1qgkjyxo1_500.gifv",
-    "lineOne": "I wish we'd skip a beat",
-    "lineTwo": "Give up this hide and seek",
-    "lineThree": "Think I just change my mind",
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/Lyrics/Dont_Tell.json",
     "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/Royal%20Blood%20-%20Don't%20Tell.mp3"
   },
   {
     "title": "Supermassive Black Hole",
     "artist": "Muse",
     "cover": "https://64.media.tumblr.com/c8ec96cd793bdba994718d5ab4dbeb60/tumblr_opkebgSFDJ1qf0pudo1_540.gifv",
-    "lineOne": "I thought I was a fool for no one",
-    "lineTwo": "But mmh, baby I'm a fool for you",
-    "lineThree": "You're the queen of the superficial",
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/Lyrics/Supermassive_Black_Hole.json",
     "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/Muse%20-%20Supermassive%20Black%20Hole.mp3"
   },
   {
     "title": "Love Me Like a Friend",
     "artist": "Fly By Midnight",
     "cover": "https://64.media.tumblr.com/2021b89cb0ea2b7edde7d33c44b410dd/b131380311472f95-65/s540x810/335a9f897c07a86b5319008d26ef881905777053.gifv",
-    "lineOne": "You've got a friend in me",
-    "lineTwo": "And that's what's killing me",
-    "lineThree": "You've got a friend in me",
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/Lyrics/Love_Me_Like_a_Friend.json",
     "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/Fly%20By%20Midnight%20-%20Love%20Me%20Like%20a%20Friend.mp3"
   },
   {
     "title": "Savin' Me",
     "artist": "Nickelback",
     "cover": "https://64.media.tumblr.com/3567284dc3199e4b189438525010c5fb/44062efcd2139dd5-b7/s540x810/57b073d7f536d019eb2994d70d3af63461b7838c.gifv",
-    "lineOne": "Heaven's gates won't open up for me",
-    "lineTwo": "With these broken wings I'm fallin'",
-    "lineThree": "And all I see is you",
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/Lyrics/Savin_Me.json",
     "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/Nickelback%20-%20Savin'%20Me.mp3"
   },
   {
     "title": "Best Friend",
     "artist": "Jason Chen",
     "cover": "https://64.media.tumblr.com/411159ee261675623a45fb55942afb2a/34c93d67d655001a-07/s500x750/559ab746b9c1de79760fcc44a676ea5604be9d14.gifv",
-    "lineOne": "Through all the dudes that came by",
-    "lineTwo": "And all the nights that you cried",
-    "lineThree": "Girl, I was there right by your side",
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/Lyrics/Best_Friend.json",
     "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/Jason%20Chen%20-%20Best%20Friend.mp3"
   },
   {
     "title": "You're the Best Thing About Me",
     "artist": "U2",
     "cover": "https://64.media.tumblr.com/559deef730d5a8c110c6bcf68ef2e51b/6f04356fa74979d4-61/s500x750/4e89b38abed12c685c01970010b90b0c86650e40.gifv",
-    "lineOne": "You're the best thing about me",
-    "lineTwo": "I'm the kind of trouble that you enjoy",
-    "lineThree": "You're the best thing about me",
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/Lyrics/Youre_the_Best_Thing_About_Me.json",
     "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/U2%20-%20You’re%20The%20Best%20Thing%20About%20Me.mp3"
   },
   {
     "title": "It Was Always You",
     "artist": "Maroon 5",
     "cover": "https://64.media.tumblr.com/a2bc99858c399e5bd9dd458b3d9719e1/6be922985c61aaaa-5a/s500x750/bd5cf39c04baf6957e820e55ef07608354c85c6c.gifv",
-    "lineOne": "Hazel eyes, I was so colour blind",
-    "lineTwo": "We were just wasting time, uh-oh, yeah",
-    "lineThree": "For my whole life, we never crossed the line",
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/Lyrics/It_Was_Always_You.json",
     "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Philip%20O'Halloran/Vilip/Maroon%205%20-%20It%20Was%20Always%20You.mp3"
   }
 ]
