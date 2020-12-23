@@ -3,72 +3,70 @@
     "title": "Seven",
     "artist": "Taylor Swift",
     "cover": "https://data.whicdn.com/images/303178253/original.gif",
-    "lineOne": "And I've been meaning to tell you",
-    "lineTwo": "I think your house is haunted",
-    "lineThree": "Your dad is always mad and that must be why",
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Lyrics/Seven.json",
     "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Taylor%20Swift%20-%20seven%20.mp3"
   },
   {
     "title": "Poesia senza veli",
     "artist": "Ultimo",
     "cover": "https://64.media.tumblr.com/tumblr_lxk50pYlQ11qkplato1_500.gifv",
-    "lineOne": "Tira fuori il bimbo che hai dentro, non nasconderlo più",
-    "lineTwo": "E ti ho portato due fiori, uno sono io e l'altro sei tu",
-    "lineThree": "E vorrei essere anch'io bello come sei bella tu",
-    "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/ultimo%20-%20poesia%20senza%20veli.mp3"
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Lyrics/Poesia_senza_veli.json",
+    "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Ultimo-Poesia_senza_veli.mp3"
   },
   {
     "title": "Losing Your Memory",
     "artist": "Ryan Star",
     "cover": "https://64.media.tumblr.com/2702f6733fea5b33de3058fb995142df/tumblr_o2n54oXNFU1rpfqkxo1_500.gifv",
-    "lineOne": "Where have you gone?",
-    "lineTwo": "The beach is so cold in winter here",
-    "lineThree": "And where have I gone?",
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Lyrics/Losing_Your_Memory.json",
     "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Ryan%20Star%20-%20Losing%20Your%20Memory.mp3"
+  },
+  {
+    "title": "XX Settembre",
+    "artist": "Benji & Fede",
+    "cover": "https://thumbs.gfycat.com/AngelicRingedCreature-small.gif",
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Lyrics/XX_Settembre.json",
+    "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Benji%26Fede-XX_Settembre.mp3"
   },
   {
     "title": "Che vuoi che sia",
     "artist": "Irama",
     "cover": "https://images.summitmedia-digital.com/candy/images/articles/all-access/201512/20151207-dyan-movie-gif-01.gif",
-    "lineOne": "Con qualche rosa in mano, come in un film",
-    "lineTwo": "Pensai che fosse una bella sorpresa",
-    "lineThree": "Ma lui era ogni giorno lì",
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Lyrics/Che_vuoi_che_sia.json",
     "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Irama%20-%20Che%20vuoi%20che%20sia.mp3"
   },
   {
     "title": "Racconterò di te",
     "artist": "Ultimo",
     "cover": "https://static.wixstatic.com/media/c37b52_331bc07fb521469dbd07541eef36ed3f~mv2.gif/v1/fit/w_500,h_214,al_c,q_80/file.gif",
-    "lineOne": "Racconterò ai miei amici, ai pochi che rimarranno",
-    "lineTwo": "Che ho scoperto camminando quanto è bello stare fermo",
-    "lineThree": "Che più cerchi di star bene è più ti complichi il futuro",
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Lyrics/Raccontero_di_te.json",
     "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Ultimo%20-%20Raccontero%20di%20te.mp3"
   },
   {
     "title": "Everything Has Changed",
     "artist": "Taylor Swift Feat. Ed Sheeran",
     "cover": "https://pa1.narvii.com/6357/be7ebfefb0f7754bcf6297cde78ab6846b3cd522_hq.gif",
-    "lineOne": "'Cause all I know is we said hello",
-    "lineTwo": "And your eyes look like coming home",
-    "lineThree": "All I know is a simple name",
-    "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Taylor%20Swift%20-%20Everything%20Has%20Changed.mp3"
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Lyrics/Everything_Has_Changed.json",
+    "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Taylor_Swift-Everything_Has%20Changed.mp3"
   },
   {
     "title": "Loin du froid de décembre",
     "artist": "Hélène Ségara",
     "cover": "https://thumbs.gfycat.com/AgedBrownBovine-small.gif",
-    "lineOne": "Je me souviens, il me semble",
-    "lineTwo": "Des jeux qu'on inventait ensemble",
-    "lineThree": "Je retrouve dans un sourire",
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Lyrics/Loin_du_froid_de_decembre.json",
     "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Hélène%20Segara%20-%20Loin%20du%20froid%20de%20Décembre.mp3"
   },
   {
     "title": "Love Will Find A Way",
     "artist": "Liong King 2",
     "cover": "https://64.media.tumblr.com/5f43e4acf323298e36fc6d7b65a2d2dd/tumblr_pa7zx6u88R1saae5yo1_400.gifv",
-    "lineOne": "Somehow we'll come through",
-    "lineTwo": "Now that I've found you",
-    "lineThree": "Love will find a way",
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Lyrics/Love_Will_Find_A_Way.json",
     "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Love%20Will%20Find%20A%20Way-%20The%20Lion%20King%202.mp3"
+  },
+  {
+    "title": "Velha Infância",
+    "artist": "OUTROEU",
+    "cover": "https://i.makeagif.com/media/6-23-2016/I4FmTa.gif",
+    "lyric": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/Lyrics/Velha_Infancia.json",
+    "src": "https://raw.githubusercontent.com/GabrielWVoss/playlists/master/Carlo%20Bellucci/Nilo/OUTROEU-Velha_Infância.mp3"
   }
 ]
