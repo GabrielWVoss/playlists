@@ -1,0 +1,68 @@
+{
+  "lyrics": [
+    { "line": "We're not", "time": "0:01" },
+    { "line": "No we're not friends", "time": "0:02" },
+    { "line": "Nor have we ever been", "time": "0:05" },
+
+    { "line": "We just try to keep those secrets in a lie", "time": "0:07" },
+    { "line": "And if they find out, will it all go wrong", "time": "0:13" },
+    { "line": "And heaven knows no one wants it to", "time": "0:17" },
+    { "line": "So I could take the back road", "time": "0:22" },
+    {
+      "line": "But your eyes will lead me straight back home",
+      "time": "0:25"
+    },
+    { "line": "And if you know me like I know you", "time": "0:30" },
+    { "line": "You should love me, you should know", "time": "0:35" },
+    { "line": "Friends just sleep in another bed", "time": "0:41" },
+    { "line": "And friends don't treat me like you do", "time": "0:45" },
+    {
+      "line": "Well I know that there's a limit to everything",
+      "time": "0:51"
+    },
+    { "line": "But my friends won't love me like you", "time": "0:55" },
+    { "line": "No, my friends won't love me like you", "time": "1:00" },
+
+    { "line": "We're not friends", "time": "1:06" },
+    { "line": "We could be anything", "time": "1:09" },
+    { "line": "If we try to keep those secrets safe", "time": "1:11" },
+    { "line": "No one will find out", "time": "1:16" },
+    { "line": "If it all went wrong", "time": "1:19" },
+    { "line": "They'll never know what we've been through", "time": "1:21" },
+    { "line": "So I could take the back road", "time": "1:26" },
+    {
+      "line": "But your eyes will lead me straight back home",
+      "time": "1:29"
+    },
+    { "line": "And if you know me like I know you", "time": "1:33" },
+    { "line": "You should love me, you should know", "time": "1:39" },
+    { "line": "That friends just sleep in another bed", "time": "1:45" },
+    { "line": "And friends don't treat me like you do", "time": "1:49" },
+    {
+      "line": "Well I know that there's a limit to everything",
+      "time": "1:55"
+    },
+    { "line": "But my friends won't love me like you", "time": "1:59" },
+
+    { "line": "No, my friends won't love me like you", "time": "2:04" },
+
+    { "line": "But then again, if we're not friends", "time": "2:10" },
+    { "line": "Someone else might love you too", "time": "2:14" },
+
+    { "line": "And then again, if we're not friends", "time": "2:20" },
+    { "line": "There'd be nothing I could do", "time": "2:25" },
+
+    {
+      "line": "And that's why friends should sleep in other beds",
+      "time": "2:32"
+    },
+    { "line": "And friends shouldn't kiss me like you do", "time": "2:38" },
+    {
+      "line": "And I know that there's a limit to everything",
+      "time": "2:43"
+    },
+    { "line": "But my friends won't love me like you", "time": "2:48" },
+    { "line": "No, my friends won't love me like you", "time": "2:53" },
+    { "line": "Oh my friends will never love me like you", "time": "2:58" }
+  ]
+}
