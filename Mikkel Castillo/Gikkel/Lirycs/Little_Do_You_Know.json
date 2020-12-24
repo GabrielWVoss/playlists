@@ -1,0 +1,65 @@
+{
+  "lyrics": [
+    { "line": "Little do you know", "time": "0:00" },
+    { "line": "How I'm breakin' while you fall asleep", "time": "0:02" },
+    { "line": "Little do you know", "time": "0:06" },
+    { "line": "I'm still haunted by the memories", "time": "0:08" },
+    { "line": "Little do you know", "time": "0:13" },
+    { "line": "I'm tryin' to pick myself up piece by piece", "time": "0:14" },
+    { "line": "Little do you know", "time": "0:19" },
+    { "line": "I need a little more time", "time": "0:21" },
+
+    {
+      "line": "Underneath it all I'm held captive by the hole inside",
+      "time": "0:26"
+    },
+    {
+      "line": "I've been holding back for the fear that you might change your mind",
+      "time": "0:32"
+    },
+    {
+      "line": "I'm ready to forgive you, but forgettin' is a harder fight",
+      "time": "0:39"
+    },
+    { "line": "Little do you know", "time": "0:46" },
+    { "line": "I need a little more time", "time": "0:48" },
+
+    { "line": "I'll wait, I'll wait", "time": "0:53" },
+    { "line": "I love you like you've never felt the pain", "time": "0:56" },
+    { "line": "I'll wait", "time": "1:01" },
+    { "line": "I promise you don't have to be afraid", "time": "1:03" },
+    { "line": "I'll wait", "time": "1:07" },
+    { "line": "Love is here and here to stay", "time": "1:09" },
+    { "line": "So lay your head on me", "time": "1:13" },
+
+    { "line": "Little do you know", "time": "1:19" },
+    { "line": "I know you're hurt while I'm sound asleep", "time": "1:20" },
+    { "line": "Little do you know", "time": "1:25" },
+    { "line": "All my mistakes are slowly drownin' me", "time": "1:27" },
+    { "line": "Little do you know", "time": "1:32" },
+    { "line": "I'm tryin' to make it better piece by piece", "time": "1:33" },
+    { "line": "Little do you know I", "time": "1:38" },
+    { "line": "I love you 'til the sun dies", "time": "1:40" },
+
+    { "line": "Oh wait, just wait", "time": "1:45" },
+    { "line": "I love you like I've never felt the pain", "time": "1:49" },
+    { "line": "Just wait", "time": "1:54" },
+    { "line": "I love you like I've never been afraid", "time": "1:55" },
+    { "line": "Just wait", "time": "2:00" },
+    { "line": "Our love is here, and here to stay", "time": "2:02" },
+    { "line": "So lay your head on me", "time": "2:05" },
+
+    { "line": "I'll wait (I'll wait), I'll wait (I'll wait)", "time": "2:12" },
+    { "line": "I love you like you've never felt the pain", "time": "2:15" },
+    { "line": "I'll wait (I'll wait)", "time": "2:20" },
+    { "line": "I promise you don't have to be afraid", "time": "2:22" },
+    { "line": "I'll wait", "time": "2:26" },
+    { "line": "Love is here, and here to stay", "time": "2:28" },
+    { "line": "So lay your head on me", "time": "2:32" },
+
+    { "line": "Lay your head on me", "time": "2:38" },
+    { "line": "So lay your head on me", "time": "2:45" },
+    { "line": "'Cause little do you know I", "time": "2:51" },
+    { "line": "I love you 'til the sun dies", "time": "2:52" }
+  ]
+}

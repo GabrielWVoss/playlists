@@ -1,0 +1,57 @@
+{
+  "lyrics": [
+    {
+      "line": "It's just another night, and I'm staring at the moon",
+      "time": "0:00"
+    },
+    { "line": "I saw a shooting star, and thought of you", "time": "0:07" },
+    { "line": "I sang a lullaby by the waterside, and knew", "time": "0:13" },
+
+    { "line": "If you were here, I'd sing to you", "time": "0:20" },
+    { "line": "You're on the other side", "time": "0:26" },
+    { "line": "As the skyline splits in two", "time": "0:28" },
+    { "line": "Miles away from seeing you", "time": "0:34" },
+
+    { "line": "I can see the stars from America", "time": "0:39" },
+    { "line": "I wonder, do you see them, too", "time": "0:46" },
+
+    { "line": "So open your eyes and see", "time": "0:50" },
+    { "line": "The way our horizons meet", "time": "0:56" },
+    { "line": "And all of the lights will lead", "time": "1:03" },
+    { "line": "Into the night with me", "time": "1:09" },
+
+    { "line": "And I know these scars will bleed", "time": "1:16" },
+    { "line": "But both of our hearts believe", "time": "1:22" },
+    { "line": "All of these stars will guide us home", "time": "1:29" },
+
+    { "line": "I can hear your heart on the radio beat", "time": "1:40" },
+    {
+      "line": "They're playing 'Chasing Cars,' and I thought of us",
+      "time": "1:46"
+    },
+    { "line": "Back to the time you were lying next to me", "time": "1:52" },
+    { "line": "I looked across and fell in love", "time": "2:00" },
+
+    { "line": "And so I took your hand", "time": "2:05" },
+    { "line": "Back through lamplit streets, and knew", "time": "2:07" },
+    { "line": "Everything led back to you", "time": "2:13" },
+
+    { "line": "So can you see the stars over Amsterdam?", "time": "2:18" },
+    { "line": "You're the song my heart is beating to", "time": "2:25" },
+
+    { "line": "So open your eyes and see", "time": "2:29" },
+    { "line": "The way our horizons meet", "time": "2:36" },
+    { "line": "And all of the lights will lead", "time": "2:42" },
+    { "line": "Into the night with me", "time": "2:49" },
+
+    { "line": "And I know these scars will bleed", "time": "2:55" },
+    { "line": "But both of our hearts believe", "time": "3:01" },
+    { "line": "All of these stars will guide us home", "time": "3:08" },
+
+    { "line": "And oh", "time": "3:14" },
+    { "line": "And oh", "time": "3:20" },
+    { "line": "And oh", "time": "3:27" },
+
+    { "line": "I can see the stars from America", "time": "3:41" }
+  ]
+}
